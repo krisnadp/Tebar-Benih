@@ -1,0 +1,13 @@
+{
+    "name": "CaraKerja",
+    "alias": "carakerja",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\CaraKerja\\Providers\\CaraKerjaServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

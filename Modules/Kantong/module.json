@@ -1,0 +1,13 @@
+{
+    "name": "Kantong",
+    "alias": "kantong",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Kantong\\Providers\\KantongServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
